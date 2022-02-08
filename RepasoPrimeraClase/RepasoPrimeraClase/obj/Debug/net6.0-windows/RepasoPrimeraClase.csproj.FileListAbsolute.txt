@@ -1,0 +1,17 @@
+C:\Programación III\Repaso-Progra3\RepasoPrimeraClase\RepasoPrimeraClase\bin\Debug\net6.0-windows\RepasoPrimeraClase.exe
+C:\Programación III\Repaso-Progra3\RepasoPrimeraClase\RepasoPrimeraClase\bin\Debug\net6.0-windows\RepasoPrimeraClase.deps.json
+C:\Programación III\Repaso-Progra3\RepasoPrimeraClase\RepasoPrimeraClase\bin\Debug\net6.0-windows\RepasoPrimeraClase.runtimeconfig.json
+C:\Programación III\Repaso-Progra3\RepasoPrimeraClase\RepasoPrimeraClase\bin\Debug\net6.0-windows\RepasoPrimeraClase.dll
+C:\Programación III\Repaso-Progra3\RepasoPrimeraClase\RepasoPrimeraClase\bin\Debug\net6.0-windows\ref\RepasoPrimeraClase.dll
+C:\Programación III\Repaso-Progra3\RepasoPrimeraClase\RepasoPrimeraClase\bin\Debug\net6.0-windows\RepasoPrimeraClase.pdb
+C:\Programación III\Repaso-Progra3\RepasoPrimeraClase\RepasoPrimeraClase\obj\Debug\net6.0-windows\RepasoPrimeraClase.csproj.AssemblyReference.cache
+C:\Programación III\Repaso-Progra3\RepasoPrimeraClase\RepasoPrimeraClase\obj\Debug\net6.0-windows\RepasoPrimeraClase.Form1.resources
+C:\Programación III\Repaso-Progra3\RepasoPrimeraClase\RepasoPrimeraClase\obj\Debug\net6.0-windows\RepasoPrimeraClase.csproj.GenerateResource.cache
+C:\Programación III\Repaso-Progra3\RepasoPrimeraClase\RepasoPrimeraClase\obj\Debug\net6.0-windows\RepasoPrimeraClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programación III\Repaso-Progra3\RepasoPrimeraClase\RepasoPrimeraClase\obj\Debug\net6.0-windows\RepasoPrimeraClase.AssemblyInfoInputs.cache
+C:\Programación III\Repaso-Progra3\RepasoPrimeraClase\RepasoPrimeraClase\obj\Debug\net6.0-windows\RepasoPrimeraClase.AssemblyInfo.cs
+C:\Programación III\Repaso-Progra3\RepasoPrimeraClase\RepasoPrimeraClase\obj\Debug\net6.0-windows\RepasoPrimeraClase.csproj.CoreCompileInputs.cache
+C:\Programación III\Repaso-Progra3\RepasoPrimeraClase\RepasoPrimeraClase\obj\Debug\net6.0-windows\RepasoPrimeraClase.dll
+C:\Programación III\Repaso-Progra3\RepasoPrimeraClase\RepasoPrimeraClase\obj\Debug\net6.0-windows\ref\RepasoPrimeraClase.dll
+C:\Programación III\Repaso-Progra3\RepasoPrimeraClase\RepasoPrimeraClase\obj\Debug\net6.0-windows\RepasoPrimeraClase.pdb
+C:\Programación III\Repaso-Progra3\RepasoPrimeraClase\RepasoPrimeraClase\obj\Debug\net6.0-windows\RepasoPrimeraClase.genruntimeconfig.cache
